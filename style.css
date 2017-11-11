@@ -86,7 +86,7 @@ div.questions p {
   margin-top: 30px;
 }
 
-div.questions .btn a {
+div.questions a.btn  {
   border-radius: 5px;
   color: #FFF;
   background-color: #007bff;
